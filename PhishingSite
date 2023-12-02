@@ -3,26 +3,28 @@ Updated：2023-11-19
 File：2022-04CSV ~ 2023-10TXT
 
 #排外清單
-#.shopee.tw
+# .facebook.com
+# .instagram.com
+# .yahoo.com
+# lin.ee
+# line.me
 # shopee.tw
-#.google.com
-#.org.tw
-#.edu.tw
-#.gov.tw
+# shp.ee
 #.amazonaws.com
 #.apple.com
-# bit.ly
-# pse.is
-# .ptt.cc
-# .yahoo.com
-# reurl.cc
-# .instagram.com
-# line.me
-# lin.ee
-# .facebook.com
-# tinyurl.com
-# t.ly
-# shp.ee
+#.edu.tw
+#.google.com
+#.gov.tw
+#.org.tw
+#.shopee.tw
+
+#縮網址
+||ptt.cc^
+||bit.ly^
+||pse.is^
+||reurl.cc^
+||t.ly^
+||tinyurl.com^
 
 #釣魚網站
 ||0.cqjka.com^
