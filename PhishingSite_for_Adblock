@@ -19,12 +19,12 @@ File：2022-04CSV ~ 2023-10TXT
 #.shopee.tw
 
 #縮網址
-PhishingSite_Adblock/*.ptt.cc
-PhishingSite_Adblock/*.bit.ly
-PhishingSite_Adblock/*.pse.is
-PhishingSite_Adblock/*.reurl.cc
-PhishingSite_Adblock/*.t.ly
-PhishingSite_Adblock/*.tinyurl.com
+PhishingSite_Adblock/ptt.cc
+PhishingSite_Adblock/bit.ly
+PhishingSite_Adblock/pse.is
+PhishingSite_Adblock/reurl.cc
+PhishingSite_Adblock/t.ly
+PhishingSite_Adblock/tinyurl.com
 
 #釣魚網站
 PhishingSite_Adblock/0.cqjka.com
