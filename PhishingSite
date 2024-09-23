@@ -1,6 +1,6 @@
 #https://phishingcheck.tw/phishingwebsites
-Updated：2024-05-05
-File：2022-04CSV ~ 2024-03TXT
+Updated：2024-09-23
+File：2022-04CSV ~ 2024-08TXT
 
 #排外清單
 # .facebook.com
@@ -17,6 +17,7 @@ File：2022-04CSV ~ 2024-03TXT
 # .gov.tw
 # .org.tw
 # .github.com
+#phishingcheck.tw
 
 #縮網址
 ||ptt.cc^
@@ -20178,7 +20179,6 @@ File：2022-04CSV ~ 2024-03TXT
 ||philinfor.online^
 ||phillipna.com^
 ||phipps.lol^
-||phishingcheck.tw^
 ||phishingmail^
 ||phjeb.com^
 ||phmaxsuio.com^
