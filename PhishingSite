@@ -17,6 +17,7 @@ File：2022-04CSV ~ 2024-08TXT
 # .gov.tw
 # .org.tw
 # .github.com
+#.googleapis.com
 #phishingcheck.tw
 
 #縮網址
@@ -11155,7 +11156,6 @@ File：2022-04CSV ~ 2024-08TXT
 ||finovatrade.com^
 ||fintechproplatform.com^
 ||fiosl.com^
-||firebasestorage.googleapis.com^
 ||firewoodsus.com^
 ||firixmtime.com^
 ||firno.top^
@@ -12365,7 +12365,6 @@ File：2022-04CSV ~ 2024-08TXT
 ||goodscryptoy.cc^
 ||goodsock.shop^
 ||googjshi.shop^
-||google.com^
 ||googleiptv.com^
 ||googleweblight.com^
 ||gookexd.com^
