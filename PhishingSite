@@ -17,8 +17,9 @@ File：2022-04CSV ~ 2024-08TXT
 # .gov.tw
 # .org.tw
 # .github.com
-#.googleapis.com
+# .googleapis.com
 #phishingcheck.tw
+# .youtube.com
 
 #縮網址
 ||bit.ly^
@@ -40859,7 +40860,6 @@ File：2022-04CSV ~ 2024-08TXT
 ||www.youmingefv.com^
 ||www.your-lucky-days.xyz^
 ||www.yourslifepartner.com^
-||www.youtube.com^
 ||www.youxiwang888.com^
 ||www.yqcgf.top^
 ||www.yqhkcf.com^
